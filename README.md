@@ -1,3 +1,5 @@
+![Saisie d'écran générale](csb-vonv01.jpg "Saisie d'écran générale")
+
 Système opérationnel ! Qu'y a-t-il donc dedans ?
 
 **système**
