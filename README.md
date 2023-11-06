@@ -7,10 +7,15 @@ Système opérationnel ! Qu'y a-t-il donc dedans ?
 - mode édition pour désactiver certaines modifications de champs en jeu
 - basé sur les règles de BoL: attribut [+carrière] [+/-(dés)avantages ou effets] + 2d6 >= 9
 > dé bonus/malus (3d6, on garde les 2 meilleurs/pires)
+
 > attribut corporel/sens: agilité, dextérité, perception, physique, réflexes, discrétion
+
 > attribut social/intellectuel: charisme, connaissances, intellect, résilience (résistance à horreur/surnaturel), volonté
+
 > attribut combat: agilité, dextérité, perception, physique, réflexes, discrétion
+
 > attribut autres: thaumaturgie (magie), mythe (de Cthulhu)
+
 - des jauges:
 > santé (gestion auto des effets lorsque mal en point)
 > endurance (gestion auto des effets lorsque fatigué)
