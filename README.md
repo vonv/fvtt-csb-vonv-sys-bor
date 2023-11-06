@@ -6,6 +6,7 @@ Système opérationnel ! Qu'y a-t-il donc dedans ?
 - on peut (dés)activer les flingues (via l'époque), le Mythe, et la magie
 - mode édition pour désactiver certaines modifications de champs en jeu
 - basé sur les règles de BoL: attribut [+carrière] [+/-(dés)avantages ou effets] + 2d6 >= 9
+
 > dé bonus/malus (3d6, on garde les 2 meilleurs/pires)
 
 > attribut corporel/sens: agilité, dextérité, perception, physique, réflexes, discrétion
@@ -17,12 +18,19 @@ Système opérationnel ! Qu'y a-t-il donc dedans ?
 > attribut autres: thaumaturgie (magie), mythe (de Cthulhu)
 
 - des jauges:
+
 > santé (gestion auto des effets lorsque mal en point)
+
 > endurance (gestion auto des effets lorsque fatigué)
+
 > santé mentale
+
 > énergie (magie)
+
 > chance (héroïsme, destin,...)
+
 > possibilité de gérer les effets de l'âge, d'une maladie,...
+
 - les niveaux de certaines stats paramétrable directement dans un onglet "gardien" (sur chaque perso): max des jauges, difficulté des jets,...
 
 **combat**
