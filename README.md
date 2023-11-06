@@ -1,5 +1,15 @@
 ![Saisie d'écran générale](csb-vonv01.jpg "Saisie d'écran générale")
 
+# L'installer
+
+- installer le système CSB: https://foundryvtt.com/packages/custom-system-builder
+- récupérer les fichiers (ici) .json et .css
+- créer un monde CSB
+- dans le menu paramètres: importer le fichier json
+- faire pointer dans les options du système le fichier css récupéré
+
+# Le système
+
 Système opérationnel ! Qu'y a-t-il donc dedans ?
 
 **système**
