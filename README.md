@@ -1,5 +1,7 @@
 Système opérationnel ! Qu'y a-t-il donc dedans ?
+
 **système**
+
 - basé sur CSB :slight_smile: sans autre module
 - on peut (dés)activer les flingues (via l'époque), le Mythe, et la magie
 - mode édition pour désactiver certaines modifications de champs en jeu
@@ -17,7 +19,9 @@ Système opérationnel ! Qu'y a-t-il donc dedans ?
 > chance (héroïsme, destin,...)
 > possibilité de gérer les effets de l'âge, d'une maladie,...
 - les niveaux de certaines stats paramétrable directement dans un onglet "gardien" (sur chaque perso): max des jauges, difficulté des jets,...
+
 **combat**
+
 - postures: offensive, défense totale,...
 - dégâts létaux/non-létaux
 - dégâts gérant l'armure de la cible
@@ -25,7 +29,9 @@ Système opérationnel ! Qu'y a-t-il donc dedans ?
 - gestion des rafales (règle de Everywhen) et des cibles (une ou plusieurs)
 - gestion des munitions et des chargeurs (plus de balles, on ne peut plus tirer :))
 - armure (portée ou non), bouclier, casque (gestion auto de malus éventuels)
+
 **chance**
+
 - options escamotables et dispos que s'il vous reste de la chance
 - regain de santé/endurance/santé mentale
 - annulation auto des derniers dégâts
