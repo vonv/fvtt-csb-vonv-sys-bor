@@ -1,0 +1,5 @@
+2023/11/07-14:40:37.430445 b2bfd400 Delete type=3 #1
+2023/11/07-14:43:09.398011 b11ff400 Level-0 table #5: started
+2023/11/07-14:43:09.411625 b11ff400 Level-0 table #5: 38775 bytes OK
+2023/11/07-14:43:09.415127 b11ff400 Delete type=0 #3
+2023/11/07-14:43:09.440940 b11ff400 Manual compaction at level-0 from '!folders!gkZgln4XfUqFClvz' @ 72057594037927935 : 1 .. '!items!xv3Jt2BpWXqsyY2s' @ 0 : 0; will stop at (end)

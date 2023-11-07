@@ -1,0 +1,61 @@
+{
+  "id": "vonv-fvtt-systeme-csb",
+  "title": "vonv Systeme CSB",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "custom-system-builder",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "vonv",
+      "email": "vonv@tentacules.net",
+      "url": "https://tentacules.net",
+      "discord": "@vonv"
+    }
+  ],
+  "packs": [
+    {
+      "name": "vonvcsbacteurs",
+      "label": "vonvCSBacteurs",
+      "path": "packs/vonvcsbacteurs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder"
+    },
+    {
+      "name": "vonvcsbobjets",
+      "label": "vonvCSBobjets",
+      "path": "packs/vonvcsbobjets",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder"
+    },
+    {
+      "name": "vonvcsbtables",
+      "label": "vonvCSBtables",
+      "path": "packs/vonvcsbtables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder"
+    }
+  ]
+}

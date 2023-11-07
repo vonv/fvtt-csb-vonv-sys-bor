@@ -1,0 +1,8 @@
+2023/11/07-14:43:18.805184 b3bff400 Recovering log #4
+2023/11/07-14:43:18.830299 b3bff400 Delete type=0 #4
+2023/11/07-14:43:18.832927 b3bff400 Delete type=3 #2
+2023/11/07-14:45:30.156103 b11ff400 Level-0 table #9: started
+2023/11/07-14:45:30.157541 b11ff400 Level-0 table #9: 0 bytes OK
+2023/11/07-14:45:30.161617 b11ff400 Delete type=0 #7
+2023/11/07-14:45:30.180448 b11ff400 Manual compaction at level-0 from '!actors!44q3UmCIH6oGhM6x' @ 72057594037927935 : 1 .. '!folders!G0lYVjpriaq9pdMa' @ 0 : 0; will stop at (end)
+2023/11/07-14:45:30.180658 b11ff400 Manual compaction at level-1 from '!actors!44q3UmCIH6oGhM6x' @ 72057594037927935 : 1 .. '!folders!G0lYVjpriaq9pdMa' @ 0 : 0; will stop at (end)
