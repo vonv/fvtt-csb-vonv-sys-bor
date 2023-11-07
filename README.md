@@ -2,6 +2,8 @@
 
 # L'installer
 
+https://gitlab.com/trouverobjetcache/vonv-fvtt-systeme-csb/-/raw/main/module.json
+
 - installer le système CSB: https://foundryvtt.com/packages/custom-system-builder
 - récupérer les fichiers (ici) .json et .css
 - créer un monde CSB
