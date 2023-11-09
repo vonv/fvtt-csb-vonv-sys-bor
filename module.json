@@ -29,33 +29,34 @@
       "label": "vonvCSBacteurs",
       "path": "packs/vonvcsbacteurs",
       "type": "Actor",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder"
+      }
     },
     {
       "name": "vonvcsbobjets",
       "label": "vonvCSBobjets",
       "path": "packs/vonvcsbobjets",
       "type": "Item",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder"
+      }
     },
     {
       "name": "vonvcsbtables",
       "label": "vonvCSBtables",
       "path": "packs/vonvcsbtables",
       "type": "RollTable",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder"
+      }
     }
-  ]
+  ],
+  "url": "https://gitlab.com/trouverobjetcache/vonv-fvtt-systeme-csb/-/raw/main/module.json"
 }
