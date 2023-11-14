@@ -30,6 +30,10 @@
 
 
 /* FICHES de perso */
+.character {
+	background: url('modules/vonv-fvtt-systeme-csb/fond-fiche-perso.webp');
+	background-repeat: no-repeat;
+}
 
 .actor nav.sheet-tabs .item {
   font-family: "Modesto Condensed", serif;
