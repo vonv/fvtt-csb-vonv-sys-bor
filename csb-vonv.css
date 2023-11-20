@@ -31,7 +31,7 @@
 
 /* FICHES de perso */
 .character {
-	background: url('modules/vonv-fvtt-systeme-csb/fond-fiche-perso.webp');
+	background: url('fond-fiche-perso.webp');
 	background-repeat: no-repeat;
 }
 
@@ -129,7 +129,16 @@
 	border: 0px solid;
 	color: #060;
 }
-
+.custom-system-cell-alignLeft {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.custom-system-field-x-small {
+	width: auto;
+}
+.jauge_tab table {
+	width: 1%;
+}
 
 
 /* TAB des RESULTATS */
@@ -226,6 +235,25 @@
     text-align: center;
     font-size: 100%;
     line-height: 1rem;
+}
+
+
+.variablescachees div input {
+	height: 0.5em;
+}
+
+
+
+/* AIDES */
+@font-face {
+  font-family: "virginie";
+  src: url("../../ressources/_vonv_party/virginie.ttf");
+}
+.journal-entry-pages * div.lettres01 p, .lettres01 p {
+  	font-family: "virginie";
+  	font-size: 26px;
+	line-height: 1.2em;
+	margin-bottom: 20px;
 }
 
 
