@@ -47,14 +47,14 @@
   color: #060;
   text-shadow: 0 0 0px;
 }
-.mseCharacterName input {
+.mseCharacterName input, .charname {
 	font-family: "Modesto Condensed", serif;
 	font-size: 40px;
 	border: 0 solid;
 	padding: 0px 0px 0px 15px;
 }
-.mseCharacterName {
-	width: 50%;
+.mseCharacterName, .charname {
+	width: 400px;
 }
 .att_lib_court {
 	font-family: "Modesto Condensed", serif;
@@ -162,6 +162,34 @@
 }
 
 
+
+.carrieres_mini table {
+}
+.carrieres_mini tr:first-child {
+	margin-left: 15px;
+	font-family: "Modesto Condensed", serif;
+	font-size: 19px;
+	font-weight: bold;
+}
+.carrieres_mini td, .carrieres_mini tbody, .carrieres_mini div, .carrieres_mini table, .carrieres_mini span *, .carrieres_mini tr {
+	border: solid 0;
+	background: 0;
+	color: #336;
+	border: solid 0;
+	line-height: 1em;
+	height: 1.3em;
+}
+.carrieres_mini tr {
+  	display: flex;
+	flex-direction: row;
+  	border: solid 0;
+  	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	font-size: 0.9em;
+}
+
+
+
 /* JOURNAUX */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
@@ -202,6 +230,13 @@
   margin: 5px 0px 5px 0px;
 }
 
+!.carrieres_mini td, .carrieres_mini tbody, .carrieres_mini div, .carrieres_mini table, .carrieres_mini span {
+  !display: inline;
+  !border: solid 0;
+  !margin: 0 0 0 0;
+  !world-wrap: ;
+}
+
 
 /* JAUGES */
 
@@ -239,15 +274,26 @@
 
 
 .variablescachees div input {
-	height: 0.5em;
+	height: 0.2em;
 }
 
+.custom-system-sheet-actions {
+  display: inline;
+  align-content: center;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 18px;
+  float: right;
+  position: absolute;
+  top: 40px;
+  right: 20px;
+}
 
 
 /* AIDES */
 @font-face {
   font-family: "virginie";
-  src: url("../../ressources/_vonv_party/virginie.ttf");
+  src: url("../../ressources/_vonv_party/acte1-adj-doug-ecriture-virginie.ttf");
 }
 .journal-entry-pages * div.lettres01 p, .lettres01 p {
   	font-family: "virginie";
@@ -256,6 +302,16 @@
 	margin-bottom: 20px;
 }
 
+@font-face {
+  font-family: "machine";
+  src: url("../../ressources/_vonv_party/acte1-adj-machine-a-ecrire.ttf");
+}
+.journal-entry-pages * div.machine01 p, .machine01 p {
+  	font-family: "machine";
+  	font-size: 26px;
+	line-height: 1.2em;
+	margin-bottom: 20px;
+}
 
 
 
