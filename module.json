@@ -1,11 +1,12 @@
 {
-  "id": "vonv-fvtt-systeme-csb",
-  "title": "vonv Systeme CSB",
+  "id": "vonv-fvtt-csb-everywhen",
+  "title": "vonv CSB Systeme",
   "version": "1.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
+  "url": "https://gitlab.com/trouverobjetcache/vonv-fvtt-systeme-csb/-/raw/main/module.json",
   "relationships": {
     "systems": [
       {
@@ -20,7 +21,8 @@
       "name": "vonv",
       "email": "vonv@tentacules.net",
       "url": "https://tentacules.net",
-      "discord": "@vonv"
+      "discord": "@vonv",
+      "flags": {}
     }
   ],
   "packs": [
@@ -33,7 +35,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "vonvcsbobjets",
@@ -44,7 +47,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "vonvcsbtables",
@@ -55,8 +59,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     }
-  ],
-  "url": "https://gitlab.com/trouverobjetcache/vonv-fvtt-systeme-csb/-/raw/main/module.json"
+  ]
 }
