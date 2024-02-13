@@ -290,10 +290,11 @@
 }
 
 
+
 /* AIDES */
 @font-face {
   font-family: "virginie";
-  src: url("../../ressources/_vonv_party/acte1-adj-doug-ecriture-virginie.ttf");
+  src: url("/modules/vonv-fvtt-csb-everywhen-module/av-elies/acte1-adj-doug-ecriture-virginie.ttf");
 }
 .journal-entry-pages * div.lettres01 p, .lettres01 p {
   	font-family: "virginie";
@@ -304,7 +305,7 @@
 
 @font-face {
   font-family: "machine";
-  src: url("../../ressources/_vonv_party/acte1-adj-machine-a-ecrire.ttf");
+  src: url("/modules/vonv-fvtt-csb-everywhen-module/av-elies/acte1-adj-machine-a-ecrire.ttf");
 }
 .journal-entry-pages * div.machine01 p, .machine01 p {
   	font-family: "machine";
