@@ -53,6 +53,10 @@
 	border: 0 solid;
 	padding: 0px 0px 0px 15px;
 }
+.sheet header.sheet-header h1 input {
+	width: 50%;
+	margin-top: 19px;
+}
 .mseCharacterName, .charname {
 	width: 400px;
 }
@@ -278,15 +282,15 @@
 }
 
 .custom-system-sheet-actions {
-  display: inline;
-  align-content: center;
-  justify-content: flex-end;
-  align-items: center;
-  margin-bottom: 18px;
-  float: right;
-  position: absolute;
-  top: 40px;
-  right: 20px;
+  !display: block;
+  !align-content: center;
+  !justify-content: flex-end;
+  !align-items: center;
+  !float: right;
+  !position: relative;
+  !top: -85px;
+  !right: 0px;
+  !height: 14px;
 }
 
 

@@ -1,12 +1,14 @@
 {
   "id": "vonv-fvtt-csb-everywhen",
   "title": "vonv CSB Systeme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "url": "https://gitlab.com/trouverobjetcache/vonv-fvtt-systeme-csb/-/raw/main/module.json",
+  "url": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json",
+  "manifest": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json",
+  "download": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/archive/main/vonv-fvtt-csb-everywhen-main.zip",
   "relationships": {
     "systems": [
       {
@@ -21,8 +23,7 @@
       "name": "vonv",
       "email": "vonv@tentacules.net",
       "url": "https://tentacules.net",
-      "discord": "@vonv",
-      "flags": {}
+      "discord": "@vonv"
     }
   ],
   "packs": [
@@ -35,8 +36,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "vonvcsbobjets",
@@ -47,8 +47,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "vonvcsbtables",
@@ -59,8 +58,18 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vonvcsbmacros",
+      "label": "vonvCSBmacros",
+      "path": "packs/vonvcsbmacros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
       },
-      "flags": {}
+      "system": "custom-system-builder"
     }
   ]
 }
