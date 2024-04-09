@@ -1,14 +1,24 @@
 {
   "id": "vonv-fvtt-csb-everywhen",
-  "title": "vonv CSB Systeme",
   "version": "1.0.5",
+  "title": "vonv CSB Systeme",
+  "description": "",
+  "authors": [
+    {
+      "name": "vonv",
+      "email": "vonv@tentacules.net",
+      "url": "https://tentacules.net",
+      "discord": "@vonv",
+      "flags": {}
+    }
+  ],
+  "url": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json",
+  "manifest": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json",
+  "download": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/archive/main/vonv-fvtt-csb-everywhen-main.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "url": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json",
-  "manifest": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json",
-  "download": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/archive/main/vonv-fvtt-csb-everywhen-main.zip",
   "relationships": {
     "systems": [
       {
@@ -18,14 +28,6 @@
       }
     ]
   },
-  "authors": [
-    {
-      "name": "vonv",
-      "email": "vonv@tentacules.net",
-      "url": "https://tentacules.net",
-      "discord": "@vonv"
-    }
-  ],
   "packs": [
     {
       "name": "vonvcsbacteurs",
