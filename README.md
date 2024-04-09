@@ -2,7 +2,7 @@
 
 # L'installer
 
-https://gitlab.com/trouverobjetcache/vonv-fvtt-systeme-csb/-/raw/main/module.json
+https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json
 
 - installer le système CSB: https://foundryvtt.com/packages/custom-system-builder
 - installer ce module
