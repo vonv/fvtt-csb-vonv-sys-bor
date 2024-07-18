@@ -1,7 +1,7 @@
-2024/07/16-11:54:08.149879 b24fc400 Recovering log #928
-2024/07/16-11:54:08.175936 b24fc400 Delete type=0 #928
-2024/07/16-11:54:08.179096 b24fc400 Delete type=3 #926
-2024/07/16-11:54:45.945165 affbf400 Level-0 table #933: started
-2024/07/16-11:54:45.946477 affbf400 Level-0 table #933: 0 bytes OK
-2024/07/16-11:54:45.950043 affbf400 Delete type=0 #931
-2024/07/16-11:54:45.954716 affbf400 Manual compaction at level-0 from '!folders!oCZsf9X1TfEs1ZXA' @ 72057594037927935 : 1 .. '!folders!oCZsf9X1TfEs1ZXA' @ 0 : 0; will stop at (end)
+2024/07/17-22:04:23.444718 b33fe400 Recovering log #936
+2024/07/17-22:04:23.471175 b33fe400 Delete type=0 #936
+2024/07/17-22:04:23.473653 b33fe400 Delete type=3 #934
+2024/07/17-22:04:26.445902 b0eff400 Level-0 table #941: started
+2024/07/17-22:04:26.447187 b0eff400 Level-0 table #941: 0 bytes OK
+2024/07/17-22:04:26.450748 b0eff400 Delete type=0 #939
+2024/07/17-22:04:26.468290 b0eff400 Manual compaction at level-0 from '!folders!oCZsf9X1TfEs1ZXA' @ 72057594037927935 : 1 .. '!folders!oCZsf9X1TfEs1ZXA' @ 0 : 0; will stop at (end)
