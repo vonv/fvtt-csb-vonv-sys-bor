@@ -12,9 +12,9 @@
       "flags": {}
     }
   ],
-  "url": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json",
-  "manifest": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json",
-  "download": "https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/archive/main/vonv-fvtt-csb-everywhen-main.zip",
+  "url": "https://gitlab.com/vonv/fvtt-csb-vonv-sys/-/raw/main/module.json",
+  "manifest": "https://gitlab.com/vonv/fvtt-csb-vonv-sys/-/raw/main/module.json",
+  "download": "https://gitlab.com/vonv/fvtt-csb-vonv-sys/-/archive/main/fvtt-csb-vonv-sys-main.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
