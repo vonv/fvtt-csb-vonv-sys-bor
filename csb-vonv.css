@@ -54,7 +54,7 @@
 	padding: 0px 0px 0px 15px;
 }
 .sheet header.sheet-header h1 input {
-	width: 50%;
+	width: 100%;
 	margin-top: 19px;
 }
 .mseCharacterName, .charname {
@@ -320,6 +320,58 @@
 
 
 
+/* les onglets */
+.tableau_general .tabs {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-items: flex-start;
+	justify-content: space-around;
+	position: absolute;
+	left: -35px;
+	top: 100px;
+text-shadow: 2px 2px 0px white;
+font-size: 2em;
+}
+.tableau_general .tabs a.attributs_onglet::before {
+font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f183";
+	font-size: 1.5em;
+text-shadow: 2px 2px 0px white;
+}
+.tableau_general .tabs a.combat_onglet::before {
+font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\e19b";
+text-shadow: 2px 2px 0px white;
+}
+.tableau_general .tabs a.carriere_onglet::before {
+font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f02d";
+text-shadow: 2px 2px 0px white;
+}
+.tableau_general .tabs a.magie_onglet::before {
+font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\e05d";
+text-shadow: 2px 2px 0px white;
+}
+.tableau_general .tabs a.notes_onglet::before {
+font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f7d9";
+text-shadow: 2px 2px 0px white;
+}
+.tableau_general .tabs a.gardien_onglet::before {
+font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5dc";
+text-shadow: 2px 2px 0px white;
+}
+.tableau_general .tabs > * {
+	padding-left: 10px;
+}
+.custom-system-actor nav.sheet-tabs {
+	border-top: 0px solid var(--color-border-light-primary);
+	border-bottom: 0px solid var(--color-border-light-primary);
+}
+.sheet nav.sheet-tabs {
+	border-top: 0px solid var(--color-border-light-primary);
+	border-bottom: 0px solid var(--color-border-light-primary);
+}
+.custom-system-actor .profile-img-container {
+border:0px;
+}
 
 
 !div.attribut-cliquable a > * {
@@ -396,15 +448,4 @@
 !  font-weight:bold;
 !}
 !
-
-
-
-
-
-
-
-
-
-
-
 
