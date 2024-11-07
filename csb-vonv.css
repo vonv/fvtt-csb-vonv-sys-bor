@@ -330,11 +330,13 @@
 	position: absolute;
 	left: -35px;
 	top: 100px;
+	font-size: 2em;
+}
+.tableau_general .tabs span {
 	background: rgba(0, 0, 0, 0.2);
 	border-radius: 30%;
 	width: 50px;
 	margin: 1px 1px 1px 1px;
-	font-size: 2em;
 }
 .tableau_general .tabs a.attributs_onglet::before {
 	font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f183";
