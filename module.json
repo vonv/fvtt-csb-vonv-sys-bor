@@ -1,6 +1,6 @@
 {
   "id": "vonv-fvtt-csb-everywhen",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "title": "vonv CSB Systeme",
   "authors": [
     {
@@ -16,7 +16,7 @@
   "download": "https://gitlab.com/vonv/fvtt-csb-vonv-sys/-/archive/main/fvtt-csb-vonv-sys-main.zip",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "relationships": {
     "systems": [
