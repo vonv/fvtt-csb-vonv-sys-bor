@@ -2,7 +2,6 @@
   "id": "vonv-fvtt-csb-everywhen",
   "version": "1.0.8",
   "title": "vonv CSB Systeme",
-  "description": "",
   "authors": [
     {
       "name": "vonv",
@@ -38,7 +37,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "vonvcsbobjets",
@@ -49,7 +49,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "vonvcsbtables",
@@ -60,7 +61,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "vonvcsbmacros",
@@ -71,7 +73,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "custom-system-builder"
+      "system": "custom-system-builder",
+      "flags": {}
     }
   ]
 }

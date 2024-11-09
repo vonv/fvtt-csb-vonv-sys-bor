@@ -11,28 +11,25 @@
   font-family: "Caslon";
   src: url("./caslon-regular.ttf");
 }
-
 @font-face {
   font-family: "Caslon Italic";
   src: url("./caslon-italic.ttf");
 }
-
 @font-face {
-	font-family: "Caslon Bold";
-	src: url("./caslon-bold.ttf");
+  font-family: "Caslon Bold";
+  src: url("./caslon-bold.ttf");
 }
-
 @font-face {
-	font-family: "Segoe";
-	src: url("./segoe.ttf");
+  font-family: "Segoe";
+  src: url("./segoe.ttf");
 }
 
 
 
 /* FICHES de perso */
 .character {
-	background: url('fond-fiche-perso.webp');
-	background-repeat: no-repeat;
+  background: url('fond-fiche-perso.webp');
+  background-repeat: no-repeat;
 }
 
 .actor nav.sheet-tabs .item {
@@ -48,148 +45,150 @@
   text-shadow: 0 0 0px;
 }
 .mseCharacterName input, .charname {
-	font-family: "Modesto Condensed", serif;
-	font-size: 40px;
-	border: 0 solid;
-	padding: 0px 0px 0px 15px;
+  font-family: "Modesto Condensed", serif;
+  font-size: 40px;
+  border: 0 solid;
+  padding: 0px 0px 0px 15px;
 }
 .sheet header.sheet-header h1 input {
-	width: 100%;
-	margin-top: 19px;
+  width: 100%;
+  margin-top: 19px;
 }
 .mseCharacterName, .charname {
-	width: 400px;
+  width: 400px;
 }
 .att_lib_court {
-	font-family: "Modesto Condensed", serif;
-	font-size: 30px;
-	color: #;
+  font-family: "Modesto Condensed", serif;
+  font-size: 30px;
+  color: #;
 }
 .att_icon {
-	font-size: 24px;
-	color: #333;
+  font-size: 24px;
+  color: #333;
 }
-.att_lib_long_combat, .att_lib_long {
-	font-family: "Modesto Condensed", serif;
-	font-size: 32px;
-	line-height: 0.4em;
-	padding: 6px 0px 2px 0px;
+*[id^=CharacterSheet] .att_lib_long_combat, *[id^=CharacterSheet] .att_lib_long {
+  font-family: "Modesto Condensed", serif;
+  font-size: 32px;
+  line-height: 0.4em;
+  padding: 6px 0px 2px 0px;
 }
-.att_lib_long_combat {
-	font-size: 32px;
-	line-height: 0.5em;
-	padding: 13px 0px 14px 0px;
-	white-space: nowrap;
+*[id^=CharacterSheet] .att_lib_long_combat {
+  font-size: 32px;
+  line-height: 0.5em;
+  padding: 13px 0px 14px 0px;
+  white-space: nowrap;
 }
-.att_lib_long_addon {
-	font-family: "Modesto Condensed", serif;
-	font-size: 17px;
-	color: #333;
+*[id^=CharacterSheet] .att_lib_long_addon {
+  font-family: "Modesto Condensed", serif;
+  font-size: 17px;
+  color: #333;
 }
 .cliquable a {
-	color:#009;
+  color:#009;
 }
-.att_val_fixe, .att_val input {
-	font-family: "Modesto Condensed", serif;
-	font-size: 35px;
-	font-weight: bold;
-	border: 0 solid;
-	padding: 2px 0px 2px 0px;
+*[id^=CharacterSheet] .att_val_fixe, *[id^=CharacterSheet] .att_val input {
+  font-family: "Modesto Condensed", serif;
+  font-size: 35px;
+  font-weight: bold;
+  border: 0 solid;
+  padding: 2px 0px 2px 0px;
 }
 .att_val input {
-	background-color: rgba(0, 75, 0, 0.1);
+  background-color: rgba(0, 75, 0, 0.1);
 }
 .actor a:hover {
-	text-shadow: 0 0 0;	
-	color: #060;
+  text-shadow: 0 0 0;  
+  color: #060;
 }
 .att_mod_tab table, .jauge_tab table {
-	border: 0 solid;
-	background: none;
+  border: 0 solid;
+  background: none;
 }
 .jauge_tab {
-	width: 100%;
+  width: 100%;
 }
 .att_tab table {
-	border: 0 solid;
+  border: 0 solid;
 }
 .custom-system-template-select select {
-	height: 1.5em;
-	color: #666;
+  height: 1.5em;
+  color: #666;
 }
 .custom-system-panel {
-	margin: 0 0 0 0;	
+  margin: 0 0 0 0;  
 }
 .personnel input {
-	font-family: "Modesto Condensed", serif;
-	font-size: 23px;
-	border-top: 0px solid;
-	border-right: 0px solid;
+  font-family: "Modesto Condensed", serif;
+  font-size: 23px;
+  border-top: 0px solid;
+  border-right: 0px solid;
 }
 .jauge_chif input {
-	font-family: "Modesto Condensed", serif;
-	font-size: 30px;
-	font-weight: bold;
-	border: 0px solid;
-	color: #060;
+  font-family: "Modesto Condensed", serif;
+  font-size: 30px;
+  font-weight: bold;
+  border: 0px solid;
+  color: #060;
 }
 .custom-system-cell-alignLeft {
-	padding-left: 0px;
-	padding-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 .custom-system-field-x-small {
-	width: auto;
+  width: auto;
 }
 .jauge_tab table {
-	width: 1%;
+  width: 1%;
+}
+.variablescachees div input {
+  height: 0.2em;
 }
 
 
 /* TAB des RESULTATS */
 .col_desc {
-	width:30%;
-	font-size: 0.9em;
-	line-height: 0.9em;
+  width:30%;
+  font-size: 0.9em;
+  line-height: 0.9em;
 }
 .cel_titre {
-	font-weight: bold;
+  font-weight: bold;
 }
 .cel_result {
-	text-align: center;
-	font-weight: bold;
-	font-size: 1.2em;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
 }
 .cel_titre_jet {
-	font-weight: bold;
-	font-size: 1.2em;
-	color: rgb(39, 95, 179);
+  font-weight: bold;
+  font-size: 1.2em;
+  color: rgb(39, 95, 179);
 }
 
 
 
-.carrieres_mini table {
-}
+/* CARRIERES */
 .carrieres_mini tr:first-child {
-	margin-left: 15px;
-	font-family: "Modesto Condensed", serif;
-	font-size: 19px;
-	font-weight: bold;
+  margin-left: 15px;
+  font-family: "Modesto Condensed", serif;
+  font-size: 19px;
+  font-weight: bold;
 }
 .carrieres_mini td, .carrieres_mini tbody, .carrieres_mini div, .carrieres_mini table, .carrieres_mini span *, .carrieres_mini tr {
-	border: solid 0;
-	background: 0;
-	color: #336;
-	border: solid 0;
-	line-height: 1em;
-	height: 1.3em;
+  border: solid 0;
+  background: 0;
+  color: #336;
+  border: solid 0;
+  line-height: 1em;
+  height: 1.3em;
 }
 .carrieres_mini tr {
-  	display: flex;
-	flex-direction: row;
-  	border: solid 0;
-  	margin: 0 0 0 0;
-	padding: 0 0 0 0;
-	font-size: 0.9em;
+  display: flex;
+  flex-direction: row;
+  border: solid 0;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  font-size: 0.9em;
 }
 
 
@@ -234,63 +233,40 @@
   margin: 5px 0px 5px 0px;
 }
 
-!.carrieres_mini td, .carrieres_mini tbody, .carrieres_mini div, .carrieres_mini table, .carrieres_mini span {
-  !display: inline;
-  !border: solid 0;
-  !margin: 0 0 0 0;
-  !world-wrap: ;
-}
 
 
 /* JAUGES */
 
 .joliejauge .custom-system-label-root, .joliejauge .custom-system-label-label {
-    width: 100%;
+  width: 100%;
 }
 .joliejauge bar-container {
-    displaY: block;
-    position: relative;
-    background-color: #090;
-    height: 1rem;
-    width: 100%;
-	border-radius: 5px;
+  displaY: block;
+  position: relative;
+  background-color: #090;
+  height: 1rem;
+  width: 100%;
+  border-radius: 5px;
 }
 .joliejauge bar-fill {
-    displaY: block;
-    background-color: #060;
-    position: absolute;
-    height: 100%;
-    left: 0;
-	border-radius: 5px;
+  displaY: block;
+  background-color: #060;
+  position: absolute;
+  height: 100%;
+  left: 0;
+  border-radius: 5px;
 }
 .joliejauge bar-text {
-    displaY: block;
-    color: white;
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    text-align: center;
-    font-size: 100%;
-    line-height: 1rem;
-}
-
-
-.variablescachees div input {
-	height: 0.2em;
-}
-
-.custom-system-sheet-actions {
-  !display: block;
-  !align-content: center;
-  !justify-content: flex-end;
-  !align-items: center;
-  !float: right;
-  !position: relative;
-  !top: -85px;
-  !right: 0px;
-  !height: 14px;
+  displaY: block;
+  color: white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  font-size: 100%;
+  line-height: 1rem;
 }
 
 
@@ -301,10 +277,10 @@
   src: url("/modules/vonv-fvtt-csb-everywhen-module/av-elies/acte1-adj-doug-ecriture-virginie.ttf");
 }
 .journal-entry-pages * div.lettres01 p, .lettres01 p {
-  	font-family: "virginie";
-  	font-size: 26px;
-	line-height: 1.2em;
-	margin-bottom: 20px;
+  font-family: "virginie";
+  font-size: 26px;
+  line-height: 1.2em;
+  margin-bottom: 20px;
 }
 
 @font-face {
@@ -312,145 +288,68 @@
   src: url("/modules/vonv-fvtt-csb-everywhen-module/av-elies/acte1-adj-machine-a-ecrire.ttf");
 }
 .journal-entry-pages * div.machine01 p, .machine01 p {
-  	font-family: "machine";
-  	font-size: 26px;
-	line-height: 1.2em;
-	margin-bottom: 20px;
+  font-family: "machine";
+  font-size: 26px;
+  line-height: 1.2em;
+  margin-bottom: 20px;
 }
 
 
 
 /* les onglets */
-.tableau_general .tabs {
-	display: flex;
-	flex-direction: column;
-	flex-wrap: nowrap;
-	align-items: flex-start;
-	justify-content: space-around;
-	position: absolute;
-	left: -35px;
-	top: 100px;
-	font-size: 2em;
+*[id^=CharacterSheet] .tableau_general .tabs {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  justify-content: space-around;
+  position: absolute;
+  left: -35px;
+  top: 100px;
+  font-size: 2em;
 }
-.tableau_general .tabs span {
-	background: rgba(0, 0, 0, 0.2);
-	border-radius: 30%;
-	width: 50px;
-	margin: 1px 1px 1px 1px;
+*[id^=CharacterSheet] .tableau_general .tabs span {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 30%;
+  width: 50px;
+  margin: 1px 1px 1px 1px;
 }
 .tableau_general .tabs a.attributs_onglet::before {
-	font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f183";
-	font-size: 1.5em;
-	text-shadow: 2px 2px 0px white;
+  font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f183";
+  font-size: 1.5em;
+  text-shadow: 2px 2px 0px white;
 }
 .tableau_general .tabs a.combat_onglet::before {
-	font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\e19b";
-	text-shadow: 2px 2px 0px white;
+  font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\e19b";
+  text-shadow: 2px 2px 0px white;
 }
 .tableau_general .tabs a.carriere_onglet::before {
-	font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f02d";
-	text-shadow: 2px 2px 0px white;
+  font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f02d";
+  text-shadow: 2px 2px 0px white;
 }
 .tableau_general .tabs a.magie_onglet::before {
-	font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\e05d";
-	text-shadow: 2px 2px 0px white;
+  font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\e05d";
+  text-shadow: 2px 2px 0px white;
 }
 .tableau_general .tabs a.notes_onglet::before {
-	font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f7d9";
-	text-shadow: 2px 2px 0px white;
+  font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f7d9";
+  text-shadow: 2px 2px 0px white;
 }
 .tableau_general .tabs a.gardien_onglet::before {
-	font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5dc";
-	text-shadow: 2px 2px 0px white;
+  font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f5dc";
+  text-shadow: 2px 2px 0px white;
 }
-.tableau_general .tabs > * {
-	padding-left: 10px;
+*[id^=CharacterSheet] .tableau_general .tabs > * {
+  padding-left: 10px;
 }
-.custom-system-actor nav.sheet-tabs {
-	border-top: 0px solid var(--color-border-light-primary);
-	border-bottom: 0px solid var(--color-border-light-primary);
+*[id^=CharacterSheet] .custom-system-actor nav.sheet-tabs {
+  border-top: 0px solid var(--color-border-light-primary);
+  border-bottom: 0px solid var(--color-border-light-primary);
 }
-.sheet nav.sheet-tabs {
-	border-top: 0px solid var(--color-border-light-primary);
-	border-bottom: 0px solid var(--color-border-light-primary);
+*[id^=CharacterSheet] .sheet nav.sheet-tabs {
+  border-top: 0px solid var(--color-border-light-primary);
+  border-bottom: 0px solid var(--color-border-light-primary);
 }
 .custom-system-actor .profile-img-container {
-	border:0px;
+  border:0px;
 }
-
-
-!div.attribut-cliquable a > * {
-!  color: #009;
-!}
-!div.attribut-cliquable i {
-!  color: #006;
-!  font-size: 1.6em;
-!  padding-right:0px;
-!  width: 30px;
-!}
-!
-!.tabs .item.active {
-!    color: white;
-!    text-shadow: 0 0 10px green;
-!}
-!
-!div.jauge_label b div div, div.jauge_label b div {
-!  color: #090;
-!  font-variant: small-caps;
-!}
-!
-!.minijauge {
-!  font-size: 0.7em;
-!}
-!
-!.attribut-lib {
-!  font-size: 1.8em;
-!  font-weight: bold;
-!  font-variant: small-caps;
-!  line-height:0.9em;
-!  max-width: 120px;
-!  min-width: 120px;
-!}
-!
-!.modifattribut {
-!  color: #E00;
-!}
-!
-!.jauge > * {
-!  font-size: 1.5em;
-!  font-weight: bolder;
-!}
-!
-!.armes_pan {
-!  min-width: 550px;
-!}
-!
-!.sheet-tabs {
-!  font-weight: bold;
-!  font-variant: small-caps;
-!  font-size: 1.5em;
-!}
-!
-!.carrieres_cont_att td, .carrieres_cont_att tbody, .carrieres_cont_att div, .carrieres_cont_att table, .carrieres_cont_att span {
-!  display: inline;
-!  border: solid 0;
-!  margin: 0 0 0 0;
-!  world-wrap: ;
-!}
-!
-!.attrib_modif table {
-!  border: 0px solid;
-!  margin: 0 0 0 0;
-!}
-!
-!.leresultatdujet {
-!  font-size:1.3em;
-!  font-weight:bold;
-!}
-!.lejetdede {
-!  color: rgb(39, 95, 179);
-!  font-size:1.3em;
-!  font-weight:bold;
-!}
-!
-
