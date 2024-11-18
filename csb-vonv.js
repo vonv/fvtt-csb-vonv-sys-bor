@@ -10,7 +10,7 @@ async function welcomeMessage() {
   game.user.setFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown112024", true)
 }
   
-Hooks.on('ready', async function () {
+Hooks.on('hotReload', async function () {
   // mise à jour automatique des paramètres du système
   if (game.settings.get('custom-system-builder', 'customStyle')) {
     const settings = {
