@@ -25,7 +25,7 @@ async function welcomeMessage() {
       })
   
       // message d'accueil à l'activation du module
-      if (!game.user.getFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown092024")) {
+      if (!game.user.getFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown112024")) {
           welcomeMessage()
       }
   
