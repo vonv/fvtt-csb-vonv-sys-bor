@@ -33,6 +33,6 @@ Hooks.on('ready', async function () {
     
 })
 
-Hooks.on("init", async function () {
+Hooks.on("systemSettingChanged", async function () {
   welcomeMessage()
 })
