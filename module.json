@@ -1,6 +1,6 @@
 {
   "id": "vonv-fvtt-csb-everywhen",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "title": "vonv CSB Systeme",
   "authors": [
     {
@@ -27,6 +27,12 @@
       }
     ]
   },
+  "scripts": [
+    "csb-vonv.js"
+  ],
+  "styles": [
+    "csb-vonv.css"
+  ],
   "packs": [
     {
       "name": "vonvcsbacteurs",
@@ -37,8 +43,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "vonvcsbobjets",
@@ -49,32 +54,40 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "vonvcsbtables",
-      "label": "vonvCSBtables",
-      "path": "packs/vonvcsbtables",
-      "type": "RollTable",
-      "system": "custom-system-builder",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "vonvcsbmacros",
       "label": "vonvCSBmacros",
       "path": "packs/vonvcsbmacros",
       "type": "Macro",
+      "system": "custom-system-builder",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vonvcsbscenes",
+      "label": "vonvCSBscenes",
+      "path": "packs/vonvcsbscenes",
+      "type": "Scene",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "custom-system-builder",
-      "flags": {}
+      "system": "custom-system-builder"
+    },
+    {
+      "name": "vonvcsbjournaux",
+      "label": "vonvCSBjournaux",
+      "path": "packs/vonvcsbjournaux",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder"
     }
   ]
 }
