@@ -12,7 +12,7 @@ async function welcomeMessage() {
   
   Hooks.on('ready', async function () {
     // mise à jour automatique des paramètres du système
-    if (game.settings.get('custom-system-builder', 'overrideSheetArtwork')) {
+    if (game.settings.get('custom-system-builder', 'customStyle')) {
       const settings = {
         initFormula: '[2d6+${ini}$]',
         customStyle: 'modules/vonv-fvtt-csb-everywhen/csb-vonv.css'
