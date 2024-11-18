@@ -1,8 +1,15 @@
-2024/11/18-20:44:07.432493 7f7478f080 Recovering log #4
-2024/11/18-20:44:07.450319 7f7478f080 Delete type=0 #4
-2024/11/18-20:44:07.452776 7f7478f080 Delete type=3 #2
-2024/11/18-21:18:29.525391 7f71e3f080 Level-0 table #9: started
-2024/11/18-21:18:29.526410 7f71e3f080 Level-0 table #9: 0 bytes OK
-2024/11/18-21:18:29.529753 7f71e3f080 Delete type=0 #7
-2024/11/18-21:18:29.545728 7f71e3f080 Manual compaction at level-0 from '!journal!DB6XCuHrFHrVbwy9' @ 72057594037927935 : 1 .. '!journal.pages!DB6XCuHrFHrVbwy9.8ljjP6Patey0dA3W' @ 0 : 0; will stop at (end)
-2024/11/18-21:18:29.545791 7f71e3f080 Manual compaction at level-1 from '!journal!DB6XCuHrFHrVbwy9' @ 72057594037927935 : 1 .. '!journal.pages!DB6XCuHrFHrVbwy9.8ljjP6Patey0dA3W' @ 0 : 0; will stop at (end)
+2024/11/18-22:50:25.985040 7f757af080 Recovering log #12
+2024/11/18-22:50:26.002873 7f757af080 Delete type=0 #12
+2024/11/18-22:50:26.005338 7f757af080 Delete type=3 #10
+2024/11/18-23:22:29.458119 7f71e3f080 Level-0 table #17: started
+2024/11/18-23:22:29.464660 7f71e3f080 Level-0 table #17: 2220 bytes OK
+2024/11/18-23:22:29.467927 7f71e3f080 Delete type=0 #15
+2024/11/18-23:22:29.483451 7f71e3f080 Manual compaction at level-0 from '!journal!DB6XCuHrFHrVbwy9' @ 72057594037927935 : 1 .. '!journal.pages!DB6XCuHrFHrVbwy9.8ljjP6Patey0dA3W' @ 0 : 0; will stop at (end)
+2024/11/18-23:22:29.496955 7f71e3f080 Manual compaction at level-1 from '!journal!DB6XCuHrFHrVbwy9' @ 72057594037927935 : 1 .. '!journal.pages!DB6XCuHrFHrVbwy9.8ljjP6Patey0dA3W' @ 0 : 0; will stop at '!journal.pages!DB6XCuHrFHrVbwy9.8ljjP6Patey0dA3W' @ 15 : 0
+2024/11/18-23:22:29.496964 7f71e3f080 Compacting 1@1 + 1@2 files
+2024/11/18-23:22:29.504431 7f71e3f080 Generated table #18@1: 2 keys, 2082 bytes
+2024/11/18-23:22:29.504455 7f71e3f080 Compacted 1@1 + 1@2 files => 2082 bytes
+2024/11/18-23:22:29.505050 7f71e3f080 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/18-23:22:29.508127 7f71e3f080 Delete type=2 #5
+2024/11/18-23:22:29.511218 7f71e3f080 Delete type=2 #17
+2024/11/18-23:22:29.515019 7f71e3f080 Manual compaction at level-1 from '!journal.pages!DB6XCuHrFHrVbwy9.8ljjP6Patey0dA3W' @ 15 : 0 .. '!journal.pages!DB6XCuHrFHrVbwy9.8ljjP6Patey0dA3W' @ 0 : 0; will stop at (end)
