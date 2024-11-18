@@ -25,11 +25,14 @@ Hooks.on('ready', async function () {
     })
 
     // message d'accueil à l'activation du module
-    game.user.setFlag("vonv-fvtt-csb-everywhen", "bli", true)
     if (!game.user.getFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown112024")) {
         welcomeMessage()
     }
 
   }
     
+})
+
+Hooks.on("init", async function () {
+  welcomeMessage()
 })
