@@ -32,5 +32,3 @@ Hooks.on('ready', async function () {
   }
     
 })
-
-welcomeMessage()
