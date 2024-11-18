@@ -7,7 +7,7 @@ async function welcomeMessage() {
       content: '🗺️ Hello aventurier/ère,<br />Clique @UUID[Compendium.vonv-fvtt-csb-everywhen.vonvcsbjournaux.JournalEntry.DB6XCuHrFHrVbwy9]{ici} pour tout savoir sur ce que tu viens d\'installer. Bon jeu !',
       speaker: { alias: "Vonv" }
     })
-    game.user.setFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown092024", true)
+    game.user.setFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown112024", true)
   }
   
   Hooks.on('ready', async function () {
@@ -25,9 +25,9 @@ async function welcomeMessage() {
       })
   
       // message d'accueil à l'activation du module
-      if (!game.user.getFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown112024")) {
+      //if (!game.user.getFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown112024")) {
           welcomeMessage()
-      }
+      //}
   
     }
       
