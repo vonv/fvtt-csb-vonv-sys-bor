@@ -1,6 +1,6 @@
 # Barbarians of R'Lyeh !
 
-(fvtt-csb-vonv-sys-bor01.jpg)
+![](fvtt-csb-vonv-sys-bor01.jpg)
 
 ## L'installer
 
