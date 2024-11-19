@@ -1,18 +1,14 @@
-![Saisie d'écran générale](csb-vonv01.jpg "Saisie d'écran générale")
+# Barbarians of R'Lyeh !
 
-# L'installer
+## L'installer
 
-https://gitlab.com/vonv/vonv-fvtt-csb-everywhen/-/raw/main/module.json
+https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/module.json
 
 - installer le système CSB: https://foundryvtt.com/packages/custom-system-builder
 - installer ce module
-- importer tout, SURTOUT les templates
-- ~~récupérer les fichiers (ici) .json et .css~~
-- ~~créer un monde CSB~~
-- ~~dans le menu paramètres: importer le fichier json~~
-- faire pointer dans les options du système le fichier css récupéré
+- suivre le guide d'install dans le chat.
 
-# Le système
+## Le système
 
 Système opérationnel ! Qu'y a-t-il donc dedans ?
 
