@@ -1,4 +1,4 @@
-# Barbarians of R'Lyeh !
+# Barbarians of R'Lyeh ! (CSB + BoL + Cthulhu)
 
 ![](fvtt-csb-vonv-sys-bor01.jpg)
 
