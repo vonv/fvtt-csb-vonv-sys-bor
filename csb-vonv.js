@@ -4,7 +4,7 @@
 async function welcomeMessage() {
   ChatMessage.create({
     type: CONST.CHAT_MESSAGE_TYPES.OTHER,
-    content: '🗺️ Hello aventurier/ère,<br />Clique @UUID[Compendium.vonv-fvtt-csb-everywhen.vonvcsbjournaux.JournalEntry.DB6XCuHrFHrVbwy9]{ici} pour tout savoir sur ce que tu viens d\'installer. Bon jeu !',
+    content: '🗺️ Hello aventurier/ère,<br />Clique @UUID[Compendium.vonv-fvtt-csb-everywhen.vonvcsbjournaux.JournalEntry.gcwNcRKDMJx6E0ne]{ici} pour tout savoir sur ce que tu viens d\'installer. Bon jeu !',
     speaker: { alias: "Vonv" }
   })
   game.user.setFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown112024", true)
