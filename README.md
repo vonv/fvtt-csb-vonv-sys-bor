@@ -1,5 +1,7 @@
 # Barbarians of R'Lyeh !
 
+(fvtt-csb-vonv-sys-bor01.jpg)
+
 ## L'installer
 
 https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/module.json
