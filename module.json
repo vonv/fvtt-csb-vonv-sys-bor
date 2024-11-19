@@ -11,9 +11,9 @@
       "flags": {}
     }
   ],
-  "url": "https://gitlab.com/vonv/fvtt-csb-vonv-sys/-/raw/main/module.json",
-  "manifest": "https://gitlab.com/vonv/fvtt-csb-vonv-sys/-/raw/main/module.json",
-  "download": "https://gitlab.com/vonv/fvtt-csb-vonv-sys/-/archive/main/fvtt-csb-vonv-sys-main.zip",
+  "url": "https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/module.json",
+  "manifest": "https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/module.json",
+  "download": "https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/archive/main/fvtt-csb-vonv-sys-bor-main.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
