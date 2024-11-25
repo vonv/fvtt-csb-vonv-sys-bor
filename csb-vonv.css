@@ -143,6 +143,10 @@
 .variablescachees div input {
   height: 0.2em;
 }
+.libell_techniques {
+  height: 20px;
+  font-weight: bold;
+}
 
 
 /* TAB des RESULTATS */
