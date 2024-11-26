@@ -1,4 +1,4 @@
-# Barbarians of R'Lyeh !
+# Barbarians of R'Lyeh !.
 
 ## L'installer
 
