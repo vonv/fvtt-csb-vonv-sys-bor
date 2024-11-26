@@ -1,5 +1,7 @@
 /* Scripts du système CSB / Everywhen pour Foundry VTT */
 
+const mois = (new Date()).getMonth();
+
 // message d'accueil à l'activation du module
 async function welcomeMessage() {
   ChatMessage.create({
@@ -7,7 +9,7 @@ async function welcomeMessage() {
     content: '🗺️ Hello aventurier/ère,<br />Clique @UUID[Compendium.vonv-fvtt-csb-everywhen.vonvcsbjournaux.JournalEntry.gcwNcRKDMJx6E0ne]{ici} pour tout savoir sur ce que tu viens d\'installer. Bon jeu !',
     speaker: { alias: "Vonv" }
   })
-  game.user.setFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown112024", true)
+  game.user.setFlag("vonv-fvtt-csb-everywhen", "wellcomemessage", mois)
 }
   
 Hooks.on('hotReload', async function () {
@@ -25,7 +27,7 @@ Hooks.on('hotReload', async function () {
     })
 
     // message d'accueil à l'activation du module
-    if (!game.user.getFlag("vonv-fvtt-csb-everywhen", "welcomeMessageShown112024")) {
+    if (game.user.getFlag("vonv-fvtt-csb-everywhen", "wellcomemessage") !== mois) {
         welcomeMessage()
     }
 
@@ -34,5 +36,8 @@ Hooks.on('hotReload', async function () {
 })
 
 Hooks.once('ready', async function () {
-  welcomeMessage()
+  // message d'accueil à l'activation du module
+  if (game.user.getFlag("vonv-fvtt-csb-everywhen", "wellcomemessage") !== mois) {
+    welcomeMessage()
+  }
 })

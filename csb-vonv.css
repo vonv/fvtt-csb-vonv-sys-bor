@@ -1,34 +1,34 @@
 
 @font-face {
   font-family: "Cthucthu";
-  src: url("./cthulhumbus.ttf");
+  src: url("./polices/cthulhumbus.ttf");
 }
 @font-face {
   font-family: "Voltaire";
-  src: url("./voltaire-regular.otf");
+  src: url("./polices/voltaire-regular.otf");
 }
 @font-face {
   font-family: "Caslon";
-  src: url("./caslon-regular.ttf");
+  src: url("./polices/caslon-regular.ttf");
 }
 @font-face {
   font-family: "Caslon Italic";
-  src: url("./caslon-italic.ttf");
+  src: url("./polices/caslon-italic.ttf");
 }
 @font-face {
   font-family: "Caslon Bold";
-  src: url("./caslon-bold.ttf");
+  src: url("./polices/caslon-bold.ttf");
 }
 @font-face {
   font-family: "Segoe";
-  src: url("./segoe.ttf");
+  src: url("./polices/segoe.ttf");
 }
 
 
 
 /* FICHES de perso */
 .character {
-  background: url('fond-fiche-perso.webp');
+  background: url('assets/fond-fiche-perso.webp');
   background-repeat: no-repeat;
 }
 
