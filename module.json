@@ -72,17 +72,28 @@
       "label": "vonvCSBscenes",
       "path": "packs/vonvcsbscenes",
       "type": "Scene",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "custom-system-builder"
+      }
     },
     {
       "name": "vonvcsbjournaux",
       "label": "vonvCSBjournaux",
       "path": "packs/vonvcsbjournaux",
       "type": "JournalEntry",
+      "system": "custom-system-builder",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "vonvcsbtables",
+      "label": "vonvCSBtables",
+      "path": "packs/vonvcsbtables",
+      "type": "RollTable",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
