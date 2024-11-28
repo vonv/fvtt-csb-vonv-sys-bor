@@ -268,6 +268,38 @@ On peut choisir une posture de combat.
 
 56
 
+## On importe la macro d'activation du combat (dégâts automatiques) par glisser-déposer dans la barre de macros
+
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0561.jpg)
+
+56.1
+
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0562.jpg)
+
+56.2
+
+## On passe au combat (avec les tokens)
+
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0563.jpg)
+
+56.3
+
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0564.jpg)
+
+56.4
+
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0565.jpg)
+
+56.5
+
+## On active le mode combat: dégâts automatiques
+
+Message dans le chat pour chaque combattant adverse activé (en combat).
+
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0566.jpg)
+
+56.6
+
 ## On l'attaque après l'avoir désigné comme cible dans la scène (touche T)
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0570.jpg)
