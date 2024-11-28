@@ -1,6 +1,30 @@
 # Manuel d'uilisation du système CSB BoR
 
-## On installe le sysème de jeu
+* [On installe le **système** de jeu](#on-installe-le-système-de-jeu)
+* [On installe le **module** BoR](#on-installe-le-module-bor)
+* [On crée un monde sous système Custom System Builder](#on-crée-un-monde-sous-système-custom-system-builder)
+* [On le démarre](#on-le-démarre)
+* [On active le module BoR](#on-active-le-module-bor)
+* [On **importe** les modèles et les acteurs, objets,...](#on-importe-les-modèles-et-les-acteurs-objets)
+* [Et voilà !](#et-voilà-)
+* [On crée un **personnage** (joueur)](#on-crée-un-personnage-joueur)
+* [On passe en mode "**édition**" dans l'onglet Equipement/Historique](#on-passe-en-mode-édition-dans-longlet-equipementhistorique)
+* [On s'ajoute une carrière à partir des objets/Carrière par glisser-déposer sur la fiche](#on-sajoute-une-carrière-à-partir-des-objetscarrière-par-glisser-déposer-sur-la-fiche)
+* [On se donne du matos à partir des objets par glisser-déposer sur la fiche](#on-se-donne-du-matos-à-partir-des-objets-par-glisser-déposer-sur-la-fiche)
+* [On sait parler des langues (important pour lire les ouvrages)](#on-sait-parler-des-langues-important-pour-lire-les-ouvrages)
+* [On s'ajoute des avantages/désavantages à partir des objets par glisser-déposer sur la fiche](#on-sajoute-des-avantagesdésavantages-à-partir-des-objets-par-glisser-déposer-sur-la-fiche)
+* [On teste en faisant un jet d'attribut](#on-teste-en-faisant-un-jet-dattribut)
+* [On utilise la Chance](#on-utilise-la-chance)
+* [On crée un **personnage** (non-joueur)](#on-crée-un-personnage-non-joueur)
+* [On choisit sa puissance](#on-choisit-sa-puissance)
+* [On le crée](#on-le-crée)
+* [On importe la macro d'activation du combat (dégâts automatiques) par glisser-déposer dans la barre de macros](#on-importe-la-macro-dactivation-du-combat-dégâts-automatiques-par-glisser-déposer-dans-la-barre-de-macros)
+* [On passe au **combat** (avec les tokens)](#on-passe-au-combat-avec-les-tokens)
+* [On active le mode combat: dégâts automatiques](#on-active-le-mode-combat-dégâts-automatiques)
+* [On l'attaque après l'avoir désigné comme cible dans la scène (touche T)](#on-lattaque-après-lavoir-désigné-comme-cible-dans-la-scène-touche-t)
+* [On lui fait des dégâts](#on-lui-fait-des-dégâts)
+
+## On installe le système de jeu
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0010.jpg)
 
@@ -140,7 +164,7 @@ On remplit les détails.
 
 29
 
-## On s'ajoute une carrière à partir des ojets/Carrière par glisser-déposer sur la fiche
+## On s'ajoute une carrière à partir des objets/Carrière par glisser-déposer sur la fiche
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0300.jpg)
 
@@ -166,7 +190,7 @@ On remplit les détails.
 
 35
 
-# On se donne du matos à partir des ojets par glisser-déposer sur la fiche
+## On se donne du matos à partir des objets par glisser-déposer sur la fiche
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0360.jpg)
 
@@ -200,7 +224,7 @@ On peut choisir une posture de combat.
 
 42
 
-## On s'ajoute des avantages/désavantages à partir des ojets par glisser-déposer sur la fiche
+## On s'ajoute des avantages/désavantages à partir des objets par glisser-déposer sur la fiche
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0430.jpg)
 
@@ -238,7 +262,7 @@ On peut choisir une posture de combat.
 
 50
 
-## On crée un personnage (nonèjoueur)
+## On crée un personnage (non-joueur)
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0510.jpg)
 
@@ -293,6 +317,8 @@ On peut choisir une posture de combat.
 56.5
 
 ## On active le mode combat: dégâts automatiques
+
+Click sur la macro précédemment importée.
 
 Message dans le chat pour chaque combattant adverse activé (en combat).
 
