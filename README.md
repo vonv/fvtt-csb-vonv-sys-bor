@@ -10,6 +10,10 @@ https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/module.json
 - installer ce module
 - suivre le guide d'install dans le chat.
 
+## L'utiliser
+
+[Tout est là](manuel/manuel.md)
+
 ## Le système
 
 Système opérationnel ! Qu'y a-t-il donc dedans ?
