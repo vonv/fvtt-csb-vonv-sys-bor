@@ -1,5 +1,7 @@
 # Manuel d'uilisation du système CSB BoR
 
+### Install
+
 * [On installe le **système** de jeu](#on-installe-le-système-de-jeu)
 * [On installe le **module** BoR](#on-installe-le-module-bor)
 * [On crée un monde sous système Custom System Builder](#on-crée-un-monde-sous-système-custom-system-builder)
@@ -7,6 +9,9 @@
 * [On active le module BoR](#on-active-le-module-bor)
 * [On **importe** les modèles et les acteurs, objets,...](#on-importe-les-modèles-et-les-acteurs-objets)
 * [Et voilà !](#et-voilà-)
+
+### Création de perso
+
 * [On crée un **personnage** (joueur)](#on-crée-un-personnage-joueur)
 * [On passe en mode "**édition**" dans l'onglet Equipement/Historique](#on-passe-en-mode-édition-dans-longlet-equipementhistorique)
 * [On s'ajoute une carrière à partir des objets/Carrière par glisser-déposer sur la fiche](#on-sajoute-une-carrière-à-partir-des-objetscarrière-par-glisser-déposer-sur-la-fiche)
@@ -18,6 +23,9 @@
 * [On crée un **personnage** (non-joueur)](#on-crée-un-personnage-non-joueur)
 * [On choisit sa puissance](#on-choisit-sa-puissance)
 * [On le crée](#on-le-crée)
+
+### Ca va friter !
+
 * [On importe la macro d'activation du combat (dégâts automatiques) par glisser-déposer dans la barre de macros](#on-importe-la-macro-dactivation-du-combat-dégâts-automatiques-par-glisser-déposer-dans-la-barre-de-macros)
 * [On passe au **combat** (avec les tokens)](#on-passe-au-combat-avec-les-tokens)
 * [On active le mode combat: dégâts automatiques](#on-active-le-mode-combat-dégâts-automatiques)
@@ -303,6 +311,10 @@ On peut choisir une posture de combat.
 56.2
 
 ## On passe au combat (avec les tokens)
+
+⚠️ Il faut avoir créé un joueur au minimum sur votre partie pour que cela fonctionne.
+
+On vous conseille le module Ownership Viewer https://foundryvtt.com/packages/permission_viewer pour plus de lisibilité à l'écran.
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0563.jpg)
 
