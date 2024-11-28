@@ -20,10 +20,10 @@ Système opérationnel ! Qu'y a-t-il donc dedans ?
 
 **système**
 
-- basé sur CSB :slight_smile: sans autre module https://foundryvtt.com/packages/custom-system-builder
+- basé sur **CSB** :slight_smile: sans autre module https://foundryvtt.com/packages/custom-system-builder
 - on peut (dés)activer les flingues (via l'époque), le Mythe, et la magie
 - mode édition pour désactiver certaines modifications de champs en jeu
-- basé sur les règles de BoL: attribut [+carrière] [+/-(dés)avantages ou effets] + 2d6 >= 9
+- basé sur les règles de **BoL** (Barbarians of Lemuria : https://www.drivethrurpg.com/en/product/58815/barbarians-of-lemuria-legendary-edition et **Everywhen**, sa version générique https://www.drivethrurpg.com/en/product/249193/everywhen): attribut [+carrière] [+/-(dés)avantages ou effets] + 2d6 >= 9
 
 > dé bonus/malus (3d6, on garde les 2 meilleurs/pires)
 
@@ -35,21 +35,21 @@ Système opérationnel ! Qu'y a-t-il donc dedans ?
 
 > attribut autres: thaumaturgie (magie), mythe (de Cthulhu)
 
-- des jauges:
+> des jauges:
 
-> santé (gestion auto des effets lorsque mal en point)
+>> santé (gestion auto des effets lorsque mal en point)
 
-> endurance (gestion auto des effets lorsque fatigué)
+>> endurance (gestion auto des effets lorsque fatigué)
 
-> santé mentale
+>> santé mentale
 
-> énergie (magie)
+>> énergie (magie)
 
-> chance (héroïsme, destin,...)
+>> chance (héroïsme, destin,...)
 
 > possibilité de gérer les effets de l'âge, d'une maladie,...
 
-- les niveaux de certaines stats paramétrable directement dans un onglet "gardien" (sur chaque perso): max des jauges, difficulté des jets,...
+> les niveaux de certaines stats paramétrable directement dans un onglet "gardien" (sur chaque perso): max des jauges, difficulté des jets,...
 
 **combat**
 
