@@ -88,6 +88,8 @@
 
 ## On importe les modèles et les acteurs, objets,...
 
+⚠️ SURTOUT bien dans l'ORDRE: d'abord les OBJETS puis les ACTEURS ! ⚠️
+
 ⚠️ Bien cocher **Garder l'ID**
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/manuel0120.jpg)
