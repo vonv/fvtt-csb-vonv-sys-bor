@@ -2,6 +2,8 @@
 
 ![](assets/fvtt-csb-vonv-sys-bor01.jpg)
 
+_Retrouvez la communeauté CSB ic: https://discord.com/channels/715943353409339425/960978076370632784_
+
 ## L'installer
 
 https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/module.json
