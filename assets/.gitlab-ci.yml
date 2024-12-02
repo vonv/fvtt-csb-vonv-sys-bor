@@ -1,5 +1,26 @@
 my-job:
-  image: node:17-alpine3.14
-  stage: test
-  script:
-    npm install
+  image: node:16
+
+  stages:
+      - build
+      - test
+
+  before_script:
+      - apt-get update
+      - apt-get install zip
+
+  cache:
+      key:
+          files:
+              - package-lock.json
+      paths:
+          - .npm/
+
+  build:
+      stage: build
+      script:
+          - npm ci --cache .npm --prefer-offline
+
+      artifacts:
+          paths:
+
