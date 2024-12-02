@@ -2,5 +2,4 @@ my-job:
   image: node:17-alpine3.14
   stage: test
   script:
-    - cd app
-    - npm install
+    npm install
