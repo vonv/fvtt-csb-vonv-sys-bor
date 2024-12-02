@@ -1,5 +1,4 @@
 my-job:
-  image: npm:latest
   run:
     - name: say_hi
       script: echo hello ${{job.GITLAB_USER_LOGIN}}
