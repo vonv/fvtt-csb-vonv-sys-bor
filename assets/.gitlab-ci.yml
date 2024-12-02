@@ -1,6 +1,6 @@
 my-job:
   image: node:17-alpine3.14
   stage: test
-  before_script:
-    - cd app
-    - npm install
+  script:
+    cd app
+    npm install
