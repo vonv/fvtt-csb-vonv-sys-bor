@@ -1,0 +1,6 @@
+my-job:
+  run:
+    - name: say_hi
+      script: echo hello ${{job.GITLAB_USER_LOGIN}}
+    - name: say_hi
+      script: echo hello !
