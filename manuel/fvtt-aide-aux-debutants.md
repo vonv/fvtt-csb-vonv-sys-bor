@@ -117,79 +117,79 @@ function transformName(doc) {
 }
 ```
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0010.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0010.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0020.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0020.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0030.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0030.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0040.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0040.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0050.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0050.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0060.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0060.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0070.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0070.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0080.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0080.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0090.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0090.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0100.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0100.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0110.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0110.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0120.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0120.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0130.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0130.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0140.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0140.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0150.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0150.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0160.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0160.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0170.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0170.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0180.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0180.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0190.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0190.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0200.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0200.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0210.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0210.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0220.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0220.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0230.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0230.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0231.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0231.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0240.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0240.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0250.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0250.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0260.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0260.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0270.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0270.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0280.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0280.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0290.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0290.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0300.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0300.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0310.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0310.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0320.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0320.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0330.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0330.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0340.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0340.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0350.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0350.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0360.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0360.jpg)
 
 # Passage à GitLab pour le module
 
@@ -229,45 +229,45 @@ D:\fvtt\git\bin\git.exe commit -m "Ajout du reademe"
 D:\fvtt\git\bin\git.exe push
 ```
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0001.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0001.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0002.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0002.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0003.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0003.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0004.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0004.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0005.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0005.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0006.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0006.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0007.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0007.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0008.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0008.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0009.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0009.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0010.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0010.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0011.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0011.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0012.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0012.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0013.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0013.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0014.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0014.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0015.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0015.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0016.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0016.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0017.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0017.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0018.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0018.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0019.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0019.jpg)
 
-![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0020.jpg){width=70%}
+![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0020.jpg)
 
 # Versionnage et déploiement automatique
 
