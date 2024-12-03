@@ -38,21 +38,14 @@
       "name": "BoRlyeh",
       "sorting": "m",
       "color": "#59564c",
-      "folders": [
-        {
-          "name": "BoRlyeh",
-          "sorting": "m",
-          "color": "#59564c",
-          "packs": [
-            "vonvcsbacteurs",
-            "vonvcsbobjets",
-            "vonvcsbmacros",
-            "vonvcsbscenes",
-            "vonvcsbjournaux",
-            "vonvcsbtables"],
-          "folders": []
-        }
-      ]
+      "packs": [
+        "vonvcsbacteurs",
+        "vonvcsbobjets",
+        "vonvcsbmacros",
+        "vonvcsbscenes",
+        "vonvcsbjournaux",
+        "vonvcsbtables"],
+      "folders": []
     }
   ],
   "packs": [
