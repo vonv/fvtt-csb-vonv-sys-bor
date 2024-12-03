@@ -2,9 +2,9 @@
 
 ![](assets/fvtt-csb-vonv-sys-bor01.jpg)
 
-_Retrouvez la communeauté CSB ic: https://discord.com/channels/715943353409339425/960978076370632784_
+_Retrouvez la communeauté CSB ic: https://discord.com/channels/715943353409339425/960978076370632784_ 🆘
 
-Pour **installer** **Foundry** (sous Windows en nodejs), installer et paramétrer **Git** pour **GitLab**: [c'est ici](manuel/fvtt-aide-aux-debutants.md)
+Pour **installer** **Foundry** (sous Windows en nodejs), installer et paramétrer **Git** pour **GitLab**: [c'est ici](manuel/fvtt-aide-aux-debutants.md) 📘
 
 ## L'installer
 
@@ -16,7 +16,7 @@ https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/module.json
 
 ## L'utiliser
 
-[Tout est là](manuel/manuel.md)
+[Tout est là](manuel/manuel.md) 📖
 
 ## Le système
 
