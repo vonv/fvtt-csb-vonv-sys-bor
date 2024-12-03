@@ -194,6 +194,10 @@ function transformName(doc) {
 
 # Passage à GitLab pour le module
 
+* Installion de GitLab
+* Initialisation
+* Petit test de mise à jour
+
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0001.jpg){width=70%}
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0002.jpg){width=70%}
