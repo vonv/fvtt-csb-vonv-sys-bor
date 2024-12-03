@@ -1,5 +1,6 @@
 * [Installation FVTT Windows Nodejs + module](#installation)
 * [Passage à Git pour le module](#passage-à-gitlab-pour-le-module)
+* [Travailler avec un éditeur de texte et git/gitlab (A VENIR)](#travailler-avec-un-éditeur-de-texte-et-gitgitlab)
 * [Versionnage et déploiement automatique (A VENIR)](#versionnage-et-déploiement-automatique)
 
 # Installation
@@ -270,4 +271,6 @@ D:\fvtt\git\bin\git.exe push
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0020.jpg)
 
 # Versionnage et déploiement automatique
+
+# Travailler avec un éditeur de texte et git/gitlab
 
