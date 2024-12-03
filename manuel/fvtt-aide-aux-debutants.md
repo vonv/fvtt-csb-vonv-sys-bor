@@ -117,7 +117,6 @@ function transformName(doc) {
 }
 ```
 
-
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0010.jpg){width=70%}
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/foundryvtt-install-windows-nodejs-to-yaml-0020.jpg){width=70%}
@@ -197,6 +196,38 @@ function transformName(doc) {
 * Installion de GitLab
 * Initialisation
 * Petit test de mise à jour
+
+Le code:
+
+```
+ssh-keygen -t rsa -b 2048 -C "la cle de vonv"
+```
+
+```
+cd D:\fvtt\foundryvtt12donnees\Data\modules\my-new-module
+
+D:\fvtt\git\bin\git.exe init --initial-branch=main
+
+D:\fvtt\git\bin\git.exe config --global user.name "moi"
+
+D:\fvtt\git\bin\git.exe config --global user.email "bli@bla.fr"
+
+D:\fvtt\git\bin\git.exe remote add origin git@gitlab.com:vonv/my-new-module.git
+
+D:\fvtt\git\bin\git.exe add .
+
+D:\fvtt\git\bin\git.exe commit -m "Initial commit"
+
+D:\fvtt\git\bin\git.exe push --set-upstream origin main
+```
+
+```
+D:\fvtt\git\bin\git.exe add .
+
+D:\fvtt\git\bin\git.exe commit -m "Ajout du reademe"
+
+D:\fvtt\git\bin\git.exe push
+```
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0001.jpg){width=70%}
 
