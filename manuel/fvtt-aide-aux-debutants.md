@@ -1,6 +1,6 @@
 * [Installation FVTT Windows Nodejs + module](#installation)
 * [Passage à Git pour le module](#passage-à-gitlab-pour-le-module)
-* [Travailler avec un éditeur de texte et git/gitlab (A VENIR)](#travailler-avec-un-éditeur-de-texte-et-gitgitlab)
+* [Travailler avec un éditeur de texte et git/gitlab](#travailler-avec-un-éditeur-de-texte-et-gitgitlab)
 * [Versionnage et déploiement automatique (A VENIR)](#versionnage-et-déploiement-automatique)
 
 # Installation
