@@ -4,7 +4,7 @@
 
 _Retrouvez la communeauté CSB ic: https://discord.com/channels/715943353409339425/960978076370632784_
 
-Pour installer Foundry (sous Windows en nodejs), installer et paramétrer Git pour GitLab: [c'est ici](manuel/fvtt-aide-aux-debutants.md)
+Pour **installer** **Foundry** (sous Windows en nodejs), installer et paramétrer **Git** pour **GitLab**: [c'est ici](manuel/fvtt-aide-aux-debutants.md)
 
 ## L'installer
 
