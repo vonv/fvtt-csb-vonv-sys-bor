@@ -11,7 +11,4 @@ build:
     stage: build
     script:
         - npm ci
-
-    artifacts:
-
-
+        - npm run pullYAMLtoLDB
