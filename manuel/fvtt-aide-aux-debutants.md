@@ -1,5 +1,6 @@
 * [Installation FVTT Windows Nodejs + module](#installation)
-* [Passage à Git pour le module](#passage-a-gitlab-pour-le-module)
+* [Passage à Git pour le module](#passage-à-gitlab-pour-le-module)
+* [Versionnage et déploiement automatique (A VENIR)](#versionnage-et-déploiement-automatique)
 
 # Installation
 
@@ -232,3 +233,6 @@ function transformName(doc) {
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0019.jpg){width=70%}
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0020.jpg){width=70%}
+
+# Versionnage et déploiement automatique
+
