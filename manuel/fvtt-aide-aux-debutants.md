@@ -270,7 +270,6 @@ D:\fvtt\git\bin\git.exe push
 
 ![](https://gitlab.com/vonv/fvtt-csb-vonv-sys-bor/-/raw/main/manuel/fvttaideauxdebutants0020.jpg)
 
-# Versionnage et déploiement automatique
-
 # Travailler avec un éditeur de texte et git/gitlab
 
+# Versionnage et déploiement automatique
